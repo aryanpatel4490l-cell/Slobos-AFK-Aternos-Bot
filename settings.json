@@ -8,7 +8,7 @@
   "server": {
     "ip": "listS1.aternos.me:46909",
     "port": 46909,
-    "version": "21.1",
+    "version": "21.1.11",
     "try-creative": false
   },
   "position": {
